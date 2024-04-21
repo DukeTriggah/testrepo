@@ -1,0 +1,3 @@
+Chrome, FireFox, Edge
+
+# I added these through gitbash commands
